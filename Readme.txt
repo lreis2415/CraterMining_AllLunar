@@ -1,4 +1,4 @@
-0. Due to the restriction of data volume in Github, all data are shared with onedrive. https://1drv.ms/u/s!AupLwOv5hDZGkeorY5eyMOCfw4j8dg?e=SWYUYc (password: CraterMining)
+0. Due to the restriction of data volume in Github, all data/results are shared with onedrive. This repository only includes codes. Shared data url: https://1drv.ms/u/s!AupLwOv5hDZGkeorY5eyMOCfw4j8dg?e=SWYUYc (password: CraterMining)
 
 1. All relevant code and results (including intermediate results) are contained in this folder.
 
